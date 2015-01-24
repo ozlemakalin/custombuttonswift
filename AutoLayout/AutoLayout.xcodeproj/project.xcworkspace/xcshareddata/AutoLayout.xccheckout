@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7EE24F12-48FA-43FA-B687-E3FC2B189320</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AutoLayout</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1890346F2BDAA8BF75BFF0D95F98803D40C4CA0B</key>
+		<string>https://github.com/ozlemakalin/custombuttonswift.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AutoLayout/AutoLayout.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1890346F2BDAA8BF75BFF0D95F98803D40C4CA0B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ozlemakalin/custombuttonswift.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1890346F2BDAA8BF75BFF0D95F98803D40C4CA0B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1890346F2BDAA8BF75BFF0D95F98803D40C4CA0B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iosApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
